@@ -1,0 +1,11 @@
+.banner {
+	padding: 50px 0 30px;
+	box-sizing: border-box;
+	height: 110px;
+	text-align: center;
+	background-image: url("imagenes/ban2.jpg");
+	background-size: cover;
+	font-family: 'Marck Script';
+
+}
+
