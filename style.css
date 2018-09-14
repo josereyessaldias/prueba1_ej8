@@ -1,11 +1,17 @@
 .banner {
-	padding: 50px 0 30px;
+	padding: 20px 0 0.8vw;
 	box-sizing: border-box;
-	height: 110px;
+	
 	text-align: center;
 	background-image: url("imagenes/ban2.jpg");
 	background-size: cover;
-	font-family: 'Marck Script';
+	font-family: 'Freckle Face';
+	font-size: 4.5vw;
+	margin-bottom: 40px;
 
 }
 
+.lo {
+	background-color:  black;
+	color: white;
+}
