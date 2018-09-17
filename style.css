@@ -32,6 +32,32 @@
 		 }
 
 
+.nosotros {
+	max-width: 70%;
+	margin: auto; 
+
+}
+
+h2 { text-align: center;
+
+}
+
+.news {
+	width: 100%;
+
+}
+
+.titular {
+    top: 0px;
+    width: 100%;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin: 20px 0 0 0;
+    padding-left: 10px; 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 @media (min-width: 576px) {
 .banner {
 	padding: 20px 0 0.8vw;
