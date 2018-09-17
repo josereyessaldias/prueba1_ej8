@@ -1,7 +1,41 @@
+
+.banner {
+	padding: 20px 0 0.6vw;
+	box-sizing: border-box;
+	text-align: center;
+	background-image: url("imagenes/ban2.jpg");
+	background-size: cover;
+	font-family: 'Freckle Face';
+	font-size: 10vw;
+
+
+}
+
+.cuadro {
+
+}
+
+.foot {
+	background-color:  black;
+	color: white;
+	padding-top: 30px;
+	}
+
+.nota { padding: 10px;
+		box-sizing: border-box;
+		font-size: 0.9rem;
+
+}
+
+.logos { width: 40px;
+		 margin-right: 8px;
+		 }
+
+
+@media (min-width: 576px) {
 .banner {
 	padding: 20px 0 0.8vw;
 	box-sizing: border-box;
-	
 	text-align: center;
 	background-image: url("imagenes/ban2.jpg");
 	background-size: cover;
@@ -11,7 +45,4 @@
 
 }
 
-.lo {
-	background-color:  black;
-	color: white;
 }
